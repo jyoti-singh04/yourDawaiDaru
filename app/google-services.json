@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175697539328",
+    "project_id": "yourdawaidaru",
+    "storage_bucket": "yourdawaidaru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175697539328:android:5dce9f5f54588a149e03e5",
+        "android_client_info": {
+          "package_name": "com.example.yourdawaidaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175697539328-coqqd6f2m2g3or5q19tkgacg44kb4nb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2dAG6fLe-HzTg3bes8EKk91APYKIlYPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175697539328-0q176kn7pustpkduko44upphmq0aloqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
